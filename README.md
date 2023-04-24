@@ -1,37 +1,27 @@
-``` 
-This is still in note format, not done, and does not have any images. If you stumble upon this before the project is finished, please do not take the info as is.
-```
-
-# Table of Contents:
-- The four forces of evolution
-  - [genetic drift](/unessay#genetic-drift)
-  - [gene flow](/unessay#gene-flow)
-  - [natural selection](/unessay#natural-selection)
-  - [mutation](/unessay#mutation)
-
 ## What is evolution, and how does it occur?
-Have you ever wondered how animals share a common ancestor, yet somehow manage to be so different from one another? The answer lies in **evolution**, a process in which various species develop various features because of their environment. However, these developments happen in various methods, often known as the four forces of evolution. They are: *genetic drift*, *gene flow*, *natural selection*, and *mutation*, 
+Have you ever wondered how animals share a common ancestor, yet somehow manage to be so different from one another? The answer lies in **evolution**, a process in which various species develop various features because of their environment. However, these developments happen in various methods, often known as the four forces of evolution. They are: *genetic drift*, *gene flow*, *natural selection*, and *mutation*. 
 
 This website will guide you toward explaining these four forces of evolution in a simple manner, skipping the specific terminology and giving you a general overview, provided with visuals to solidify your understanding.
 
 <h2 href="#genetic-drift">Genetic Drift </h2>
-Random change in allele frequencies, which affects small populations
-Will have different frequencies for each generation being passed on
-Can lead to allele being lost or being fixed
+Genetic drift is a random change in allele frequencies during meiosis. More specifically, the allelle has two choices: be lost or fixed. It is most noticable observing at the macro scale, since each generation has different frequencies being passed on.
 
-Random combination during meiosis, can pick between one or the other
+Genetic drift can occur in two different ways: the **founder effect** and **genetic bottleneck**.
 
-<h3>Explaining the founder effect </h3>
-New population spreads out to new area, but has less genetic diversity compared to its original population
-Small group contrbiutes exclusively to next generation and doesnt represent entire range of variotion of original population
+<h3>Founder effect </h3>
+The founder effect happens when a population spreads to a new area, but since it's a smaller sample, it has less genetic diversity compared to the original range of the previous population.
+A good way to remember the founder effect is that the population that migrates are the "founders" of that community within that geographic region.
 
-Examples: royals
-Symptoms would have small chance in large population, but have in large chance in small communities
+<img src=img/founder-effect.png> </img>
+
+A real life situation of this would be royal inbreeding. In an attempt to keep the bloodline pure, royalty often had problems mating with their own family. Hemophilia was particularly prevalent within the British Royal Family. While these symptoms would have a small chance to appear in large populations, because the sample size is so small, the change of receiving the specific trait is amplified.
 
 <h3>Genetic bottleneck </h3>
 Reduction in population may leave survivors with certain traits to produce a new generation in which has traits drastically reduced because original variety is dead
 
-Examples: disaster wipes animals wghich reduces it
+<img src=/unessay/img/genetic-bottleneck.png> </img>
+
+Examples: disaster wipes animals which reduces it
 
 <h2 href="#gene-flow">Gene Flow</h2>
 Migration.
