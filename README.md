@@ -19,7 +19,7 @@ A real life situation of this would be royal inbreeding. In an attempt to keep t
 <h3>Genetic bottleneck </h3>
 Reduction in population may leave survivors with certain traits to produce a new generation in which has traits drastically reduced because original variety is dead
 
-![Diagram showing genetic bottleneck](/unessay/img/genetic-bottleneck.png)
+![Diagram showing genetic bottleneck](/img/genetic-bottleneck.png)
 
 Examples: disaster wipes animals which reduces it
 
@@ -30,6 +30,9 @@ When two species have different allele frequencies get together, and mix the all
 become more similar over time but increases variation
 
 greatest factor is geograpical distance
+
+
+![Diagram showing gene flow](/img/gene-flow.png)
 
 
 Example: humans travelling overseas dating. mixed race
@@ -54,6 +57,8 @@ moths with light or dark depending on environment
 
 types of natural selection
 sexual selection: females chose males and males pcik certain traits which pref
+
+Is similar, but that genetic bottleneck is random, while natural selection is due to specific traits
 
 <h2 href="#mutation">Mutation </h2>
 * New development of new allele, only source
