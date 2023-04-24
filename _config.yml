@@ -1,7 +1,7 @@
-name: The UnEssay: ANTHR-140 Final
+name: "The UnEssay: ANTHR-140 Final"
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: The UnEssay: ANTHR-140 Final
+title: "The UnEssay: ANTHR-140 Final"
 description: 
