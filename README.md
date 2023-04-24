@@ -12,14 +12,14 @@ Genetic drift can occur in two different ways: the **founder effect** and **gene
 The founder effect happens when a population spreads to a new area, but since it's a smaller sample, it has less genetic diversity compared to the original range of the previous population.
 A good way to remember the founder effect is that the population that migrates are the "founders" of that community within that geographic region.
 
-<img src=img/founder-effect.png> </img>
+![Diagram showing founder effect](/img/founder-effect.png)
 
 A real life situation of this would be royal inbreeding. In an attempt to keep the bloodline pure, royalty often had problems mating with their own family. Hemophilia was particularly prevalent within the British Royal Family. While these symptoms would have a small chance to appear in large populations, because the sample size is so small, the change of receiving the specific trait is amplified.
 
 <h3>Genetic bottleneck </h3>
 Reduction in population may leave survivors with certain traits to produce a new generation in which has traits drastically reduced because original variety is dead
 
-<img src=/unessay/img/genetic-bottleneck.png> </img>
+![Diagram showing genetic bottleneck](/unessay/img/genetic-bottleneck.png)
 
 Examples: disaster wipes animals which reduces it
 
