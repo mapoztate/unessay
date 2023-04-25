@@ -48,12 +48,15 @@ Those best adapted will live longest and reproduce
 
 happens when things changwe
 
-patterns:
+There are three types of natural selection:
+
+![Diagram showing types of natural selection](/img/natural-selection.png)
+
 * going for the mean: stabilizing
-searching for the middle ground, weight: cannot be heavy or light
+searching for the middle ground, baby weight: cannot be heavy or light - must be just right
 * picking one direction
-moths with light or dark depending on environment
-*disruptive 
+moths
+* disruptive 
 
 types of natural selection
 sexual selection: females chose males and males pcik certain traits which pref
@@ -68,11 +71,15 @@ Is similar, but that genetic bottleneck is random, while natural selection is du
 
 Can occur in different methods
 
-Point mutation
+<h3> Point mutation </h3>
 accidentally substituted one for another which produces different protein
 
-Frameshift mutation
+![Diagram showing point mutation](/img/point-mutation.png)
+
+<h3> Frameshift mutation </h3>
 Does not substitute, instead adds additional letter and shifts other letters which affects everything else
+
+![Diagram showing frameshift mutation](/img/frameshift-mutation.png)
 
 Transposable elements - copies into different places in DNA sequences depending on insertion
 Chromosomal mutation - extra/missing chromosomes due to meiosis
